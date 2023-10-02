@@ -1,0 +1,14 @@
+button{
+    margin: auto;
+    display: flex;
+    margin-top: 20px;
+}
+
+.tokped {
+    background-color: green;
+    color:white;
+    font-size: 20px;
+    border: none;
+    border-radius: 6px;
+    padding: 8px;
+}
